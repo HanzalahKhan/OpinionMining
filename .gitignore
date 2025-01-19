@@ -2,7 +2,7 @@
 env/
 
 # Ignore video files
-*.mp4
+# *.mp4
 
 # Ignore Python cache files
 __pycache__/
